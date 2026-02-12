@@ -63,6 +63,6 @@ If you use ZH-RainSim in your work, please cite it as follows:
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{[https://github.com/YOUR_USERNAME/YOUR_REPO_NAME](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)}}
+  howpublished = {\url{[https://github.com/zulkarnainh/ZH-RainSim](https://github.com/zulkarnainh/ZH-RainSim}}
 }
 ---
