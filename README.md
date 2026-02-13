@@ -1,7 +1,7 @@
-# 🌧️ ZH-RainSim: Rainfall Ensemble Generator
+# ZH-RainSim: A Tool for GCM Rainfall Downscaling
 
 [![License](https://img.shields.io/badge/license-Academic_Research_Only-blue.svg)](LICENSE)
-[![Release](https://img.shields.io/badge/release-v1.0.0-green.svg)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases)
+[![Release](https://img.shields.io/badge/release-v1.0.0-green.svg)](https://github.com/zulkarnainh/ZH-RainSim/releases)
 
 **ZH-RainSim** is a standalone desktop tool designed for downscaling Global Climate Model (GCM) data. It generates future rainfall ensembles using a Markov Chain occurrence model coupled with a Gamma distribution for intensity.
 
@@ -9,11 +9,11 @@ This tool simplifies the process of simulating daily rainfall series for hydrolo
 
 ---
 
-## 📥 Download & Installation
+## Download & Installation
 
 The software, user manual, and sample data are available in the **Releases** section.
 
-### [👉 Click Here to Download the Latest Version (v1.0.0)](https://github.com/zulkarnainh/ZH-RainSim/releases/tag/Downscaling)
+### [Click Here to Download the Latest Version (v1.0.0)](https://github.com/zulkarnainh/ZH-RainSim/releases/tag/Downscaling)
 
 1.  Go to the link above.
 2.  Under **Assets**, download `ZH-RainSim_v1.0.zip`.
@@ -24,7 +24,7 @@ The software, user manual, and sample data are available in the **Releases** sec
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **Automated Downscaling:** Easily process GCM data from CMIP6 archives.
 * **Stochastic Modelling:** Uses advanced statistical methods (Markov Chain + Gamma) for realistic simulations.
@@ -33,32 +33,33 @@ The software, user manual, and sample data are available in the **Releases** sec
 
 ---
 
-## ⚖️ License & Copyright
+## License & Copyright
 
 **Copyright Registration:** MyIPO (Reference: LY2026P00740)
 
 This software is protected by copyright law.
 
-* ✅ **Academic Research:** Free to use. You must cite the developer (see below).
-* ⚠️ **Funded Research Projects:** A specific license is required. Please contact the developer.
-* VO **Commercial Use:** Strictly Prohibited.
+* **Academic Research:** Free to use. You must cite the developer (see below).
+* **Funded Research Projects:** A specific license is required. Please contact the developer.
+* **Commercial Use:** Strictly Prohibited.
 
 ---
-## 📞 Contact & Support
+## Contact & Support
 For questions, bug reports, or licensing for funded projects, please open an Issue or contact:
 * **Developer:** Zulkarnain Hassan
 * **Email:** zulkarnainh@unimap.edu.my
+* **Email:** http://zulkarnainh.unimap.edu.my
 * **Institution:** Universiti Malaysia Perlis
 
 ---
 
-## 📝 Citation
+## Citation
 
 If you use ZH-RainSim in your work, please cite it as follows:
 
 ```bibtex
 @software{zh_rainsim_2026,
-  author = {Your Name},
+  author = {Zulkarnain Hassan},
   title = {ZH-RainSim: A Tool for GCM Rainfall Downscaling},
   year = {2026},
   publisher = {GitHub},
