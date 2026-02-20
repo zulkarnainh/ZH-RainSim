@@ -12,7 +12,7 @@ It generates future rainfall ensembles using a Markov Chain occurrence model cou
 
 The software, user manual, and sample datasets are available in the **Releases** section.
 
-### 👉 [Download the Latest Version (v1.1.0)](https://github.com/zulkarnainh/ZH-RainSim/releases)
+### 👉 [Download the Latest Version (v1.1.0)]([https://github.com/zulkarnainh/ZH-RainSim/releases](https://github.com/zulkarnainh/ZH-RainSim/releases/tag/ZH-RainSim_v1.1.0))
 
 1. Download `ZH-RainSim_v1.zip` from the link above.  
 2. Right‑click the ZIP file → **Extract All…**  
